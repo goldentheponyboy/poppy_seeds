@@ -1,7 +1,7 @@
 # Poppy Seeds
 Everything poppy seeds related.
 
-![imgage of poppy flower](imgs/poppy.jpg)
+![imgage of poppy flower](imgs/poppynew.jpg)
 
 ## History
 The poppy seed is mentioned in ancient medical texts from many civilizations.
